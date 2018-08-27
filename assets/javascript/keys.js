@@ -5,12 +5,11 @@ exports.spotify = {
   secret: process.env.SPOTIFY_SECRET
 };
 
-exports.bandsInTownAPI = {
-  id: process.env.BANDSINTOWNAPI
+exports.movies = {
+  apikey: process.env.OMDB_APIKEY
 };
 
-exports.omdbAPI = {
-  id: process.env.OMDB_API
+exports.bands = {
+  apikey: process.env.BANDS_APIKEY
 };
-
 // all API keys will go into this folder, with which I will access the .env file

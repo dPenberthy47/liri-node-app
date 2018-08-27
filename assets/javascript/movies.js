@@ -3,7 +3,7 @@ require("dotenv").config();
 
 const request = require("request");
 const keys = require("./keys");
-const movieKey = keys.movies.id;
+const movieKey = keys.movies.apikey;
 
 //logging
 const fs = require("fs");

@@ -4,7 +4,7 @@ var request = require("request");
 var argOne = process.argv[2];
 
 const keys = require("./keys");
-const bandsKey = keys.bands.bandsInTownAPI;
+const bandsKey = keys.bands.apikey;
 
 //logging
 const fs = require("fs");
