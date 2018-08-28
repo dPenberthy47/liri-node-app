@@ -1,0 +1,899 @@
+
+August 27th 2018, 9:44:13 pm Search Type: concert.js; Search value: 
+August 27th 2018, 9:44:23 pm Search Type: concert-this; Search value: 
+August 27th 2018, 9:44:37 pm Search Type: concert-this; Search value: the 1975
+August 27th 2018, 9:44:37 pm
+"[]\n"
+August 27th 2018, 9:44:47 pm Search Type: concert-this; Search value: coldplay
+August 27th 2018, 9:44:48 pm
+"[]\n"
+August 27th 2018, 9:45:49 pm Search Type: movie-this; Search value: dunkirk
+August 27th 2018, 10:13:41 pm Search Type: concert-this; Search value: coldplay
+August 27th 2018, 10:13:41 pm
+"[]\n"
+August 27th 2018, 10:14:04 pm Search Type: movie-this; Search value: dunkirk
+August 27th 2018, 10:14:32 pm Search Type: movie-this; Search value: dunkirk
+August 27th 2018, 10:14:32 pm
+{"Title":"Dunkirk","Year":"2017","Rated":"PG-13","Released":"21 Jul 2017","Runtime":"106 min","Genre":"Action, Drama, History","Director":"Christopher Nolan","Writer":"Christopher Nolan","Actors":"Fionn Whitehead, Damien Bonnard, Aneurin Barnard, Lee Armstrong","Plot":"Allied soldiers from Belgium, the British Empire and France are surrounded by the German Army, and evacuated during a fierce battle in World War II.","Language":"English, French, German","Country":"UK, Netherlands, France, USA","Awards":"Won 3 Oscars. Another 51 wins & 197 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BN2YyZjQ0NTEtNzU5MS00NGZkLTg0MTEtYzJmMWY3MWRhZjM2XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"8.0/10"},{"Source":"Rotten Tomatoes","Value":"92%"},{"Source":"Metacritic","Value":"94/100"}],"Metascore":"94","imdbRating":"8.0","imdbVotes":"405,870","imdbID":"tt5013056","Type":"movie","DVD":"19 Dec 2017","BoxOffice":"$188,042,171","Production":"Warner Bros. Pictures","Website":"http://www.dunkirkmovie.com","Response":"True"}
+August 27th 2018, 10:15:21 pm Search Type: movie-this; Search value: dunkirk
+August 27th 2018, 10:15:21 pm
+{"Title":"Dunkirk","Year":"2017","Rated":"PG-13","Released":"21 Jul 2017","Runtime":"106 min","Genre":"Action, Drama, History","Director":"Christopher Nolan","Writer":"Christopher Nolan","Actors":"Fionn Whitehead, Damien Bonnard, Aneurin Barnard, Lee Armstrong","Plot":"Allied soldiers from Belgium, the British Empire and France are surrounded by the German Army, and evacuated during a fierce battle in World War II.","Language":"English, French, German","Country":"UK, Netherlands, France, USA","Awards":"Won 3 Oscars. Another 51 wins & 197 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BN2YyZjQ0NTEtNzU5MS00NGZkLTg0MTEtYzJmMWY3MWRhZjM2XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"8.0/10"},{"Source":"Rotten Tomatoes","Value":"92%"},{"Source":"Metacritic","Value":"94/100"}],"Metascore":"94","imdbRating":"8.0","imdbVotes":"405,870","imdbID":"tt5013056","Type":"movie","DVD":"19 Dec 2017","BoxOffice":"$188,042,171","Production":"Warner Bros. Pictures","Website":"http://www.dunkirkmovie.com","Response":"True"}
+August 27th 2018, 10:15:31 pm Search Type: spotify-this-song; Search value: hello
+August 27th 2018, 10:15:31 pm
+{
+  "tracks": {
+    "href": "https://api.spotify.com/v1/search?query=hello&type=track&offset=0&limit=5",
+    "items": [
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1qDDkysTxJvFandHwP9CMx"
+              },
+              "href": "https://api.spotify.com/v1/artists/1qDDkysTxJvFandHwP9CMx",
+              "id": "1qDDkysTxJvFandHwP9CMx",
+              "name": "Noah Schnacky",
+              "type": "artist",
+              "uri": "spotify:artist:1qDDkysTxJvFandHwP9CMx"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IL",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "RO",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TH",
+            "TR",
+            "TW",
+            "US",
+            "UY",
+            "VN",
+            "ZA"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2EoqXTEJ8DGjmaOu1uVvW4"
+          },
+          "href": "https://api.spotify.com/v1/albums/2EoqXTEJ8DGjmaOu1uVvW4",
+          "id": "2EoqXTEJ8DGjmaOu1uVvW4",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/9cc8f7aaaae42e3928db24789139251cc578e0ae",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/519d0abbaed1259b8196d0f91f2e8fd5dd4e808b",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/230dca22ae7e1c86482ff367f29074e64b193f88",
+              "width": 64
+            }
+          ],
+          "name": "Hello Beautiful",
+          "release_date": "2018-01-27",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:2EoqXTEJ8DGjmaOu1uVvW4"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1qDDkysTxJvFandHwP9CMx"
+            },
+            "href": "https://api.spotify.com/v1/artists/1qDDkysTxJvFandHwP9CMx",
+            "id": "1qDDkysTxJvFandHwP9CMx",
+            "name": "Noah Schnacky",
+            "type": "artist",
+            "uri": "spotify:artist:1qDDkysTxJvFandHwP9CMx"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "RO",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 216992,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "QM24S1800768"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4pYd8dIohiqc3KsxSRqf0w"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4pYd8dIohiqc3KsxSRqf0w",
+        "id": "4pYd8dIohiqc3KsxSRqf0w",
+        "is_local": false,
+        "name": "Hello Beautiful",
+        "popularity": 70,
+        "preview_url": "https://p.scdn.co/mp3-preview/10a58d5841ccfb4e12cb4651b0b7b7c65b5dfe86?cid=df20dea9b13e490d88e36a2fa9b5ccd6",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4pYd8dIohiqc3KsxSRqf0w"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+              },
+              "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+              "id": "4dpARuHxo51G3z768sgnrY",
+              "name": "Adele",
+              "type": "artist",
+              "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+            }
+          ],
+          "available_markets": [
+            "AR",
+            "BO",
+            "BR",
+            "CL",
+            "CO",
+            "CR",
+            "DO",
+            "EC",
+            "GT",
+            "HN",
+            "MX",
+            "NI",
+            "PA",
+            "PE",
+            "PY",
+            "SV",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0K4pIOOsfJ9lK8OjrZfXzd"
+          },
+          "href": "https://api.spotify.com/v1/albums/0K4pIOOsfJ9lK8OjrZfXzd",
+          "id": "0K4pIOOsfJ9lK8OjrZfXzd",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/602102500b9cebde7559a5f9c16daaaef2846440",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/1ee2055a078d87a5a55366189409b9e1d820972a",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/7afb855c28a2c8ad5ed9d51460736f4022e60bbf",
+              "width": 64
+            }
+          ],
+          "name": "25",
+          "release_date": "2016-06-24",
+          "release_date_precision": "day",
+          "total_tracks": 11,
+          "type": "album",
+          "uri": "spotify:album:0K4pIOOsfJ9lK8OjrZfXzd"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+            },
+            "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+            "id": "4dpARuHxo51G3z768sgnrY",
+            "name": "Adele",
+            "type": "artist",
+            "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "BO",
+          "BR",
+          "CL",
+          "CO",
+          "CR",
+          "DO",
+          "EC",
+          "GT",
+          "HN",
+          "MX",
+          "NI",
+          "PA",
+          "PE",
+          "PY",
+          "SV",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 295493,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBBKS1500214"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4sPmO7WMQUAf45kwMOtONw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4sPmO7WMQUAf45kwMOtONw",
+        "id": "4sPmO7WMQUAf45kwMOtONw",
+        "is_local": false,
+        "name": "Hello",
+        "popularity": 71,
+        "preview_url": "https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=df20dea9b13e490d88e36a2fa9b5ccd6",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4sPmO7WMQUAf45kwMOtONw"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+              },
+              "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+              "id": "4dpARuHxo51G3z768sgnrY",
+              "name": "Adele",
+              "type": "artist",
+              "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+            }
+          ],
+          "available_markets": [
+            "AR",
+            "BO",
+            "BR",
+            "CL",
+            "CO",
+            "CR",
+            "DO",
+            "EC",
+            "GT",
+            "HN",
+            "MX",
+            "NI",
+            "PA",
+            "PE",
+            "PY",
+            "SV",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1Eo1pg2D4beFgf3HFTJTMc"
+          },
+          "href": "https://api.spotify.com/v1/albums/1Eo1pg2D4beFgf3HFTJTMc",
+          "id": "1Eo1pg2D4beFgf3HFTJTMc",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/797009754c30847254b48de483f256258d90df7f",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/f71517e8919892273de8d8677e42cdcf1b976aa7",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/220fe5804f244f41aa216c4e3de17eafbf552341",
+              "width": 64
+            }
+          ],
+          "name": "Hello",
+          "release_date": "2015-10-23",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:1Eo1pg2D4beFgf3HFTJTMc"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+            },
+            "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+            "id": "4dpARuHxo51G3z768sgnrY",
+            "name": "Adele",
+            "type": "artist",
+            "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "BO",
+          "BR",
+          "CL",
+          "CO",
+          "CR",
+          "DO",
+          "EC",
+          "GT",
+          "HN",
+          "MX",
+          "NI",
+          "PA",
+          "PE",
+          "PY",
+          "SV",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 295493,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "GBBKS1500214"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0ENSn4fwAbCGeFGVUbXEU3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0ENSn4fwAbCGeFGVUbXEU3",
+        "id": "0ENSn4fwAbCGeFGVUbXEU3",
+        "is_local": false,
+        "name": "Hello",
+        "popularity": 64,
+        "preview_url": "https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=df20dea9b13e490d88e36a2fa9b5ccd6",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0ENSn4fwAbCGeFGVUbXEU3"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+              },
+              "href": "https://api.spotify.com/v1/artists/3l0CmX0FuQjFxr8SK7Vqag",
+              "id": "3l0CmX0FuQjFxr8SK7Vqag",
+              "name": "Clairo",
+              "type": "artist",
+              "uri": "spotify:artist:3l0CmX0FuQjFxr8SK7Vqag"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IL",
+            "IS",
+            "IT",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "RO",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TH",
+            "TR",
+            "TW",
+            "US",
+            "UY",
+            "VN",
+            "ZA"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3NEDQmYF1roygFssVEwkwv"
+          },
+          "href": "https://api.spotify.com/v1/albums/3NEDQmYF1roygFssVEwkwv",
+          "id": "3NEDQmYF1roygFssVEwkwv",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/30c680e2d12703431c1bc74daf0fe4cb3bd78b50",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/65a2d63479b0d758620e65fc3dcf05d0fea6ad19",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/eb6ab1389a760a83ab7419abd64ae770d15c405c",
+              "width": 64
+            }
+          ],
+          "name": "diary 001",
+          "release_date": "2018-05-25",
+          "release_date_precision": "day",
+          "total_tracks": 6,
+          "type": "album",
+          "uri": "spotify:album:3NEDQmYF1roygFssVEwkwv"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+            },
+            "href": "https://api.spotify.com/v1/artists/3l0CmX0FuQjFxr8SK7Vqag",
+            "id": "3l0CmX0FuQjFxr8SK7Vqag",
+            "name": "Clairo",
+            "type": "artist",
+            "uri": "spotify:artist:3l0CmX0FuQjFxr8SK7Vqag"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt"
+            },
+            "href": "https://api.spotify.com/v1/artists/3lLHpTOJ11tWiUNGYN14gt",
+            "id": "3lLHpTOJ11tWiUNGYN14gt",
+            "name": "Rejjie Snow",
+            "type": "artist",
+            "uri": "spotify:artist:3lLHpTOJ11tWiUNGYN14gt"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "RO",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 135016,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "US4HB1800005"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7qwt4xUIqQWCu1DJf96g2k"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7qwt4xUIqQWCu1DJf96g2k",
+        "id": "7qwt4xUIqQWCu1DJf96g2k",
+        "is_local": false,
+        "name": "Hello?",
+        "popularity": 63,
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7qwt4xUIqQWCu1DJf96g2k"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+              },
+              "href": "https://api.spotify.com/v1/artists/6l3HvQ5sa6mXTsMTB19rO5",
+              "id": "6l3HvQ5sa6mXTsMTB19rO5",
+              "name": "J. Cole",
+              "type": "artist",
+              "uri": "spotify:artist:6l3HvQ5sa6mXTsMTB19rO5"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IL",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "RO",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TH",
+            "TR",
+            "TW",
+            "US",
+            "UY",
+            "VN",
+            "ZA"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/7viNUmZZ8ztn2UB4XB3jIL"
+          },
+          "href": "https://api.spotify.com/v1/albums/7viNUmZZ8ztn2UB4XB3jIL",
+          "id": "7viNUmZZ8ztn2UB4XB3jIL",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/9c5d0ed04c5d5ca1fb3027cdc860698c89da4942",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/176606ea8b00ee668e47de155c95a6fc1418bad6",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/cdae307053d659a38434177323ea03902ac8b0dc",
+              "width": 64
+            }
+          ],
+          "name": "2014 Forest Hills Drive",
+          "release_date": "2014-12-09",
+          "release_date_precision": "day",
+          "total_tracks": 13,
+          "type": "album",
+          "uri": "spotify:album:7viNUmZZ8ztn2UB4XB3jIL"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+            },
+            "href": "https://api.spotify.com/v1/artists/6l3HvQ5sa6mXTsMTB19rO5",
+            "id": "6l3HvQ5sa6mXTsMTB19rO5",
+            "name": "J. Cole",
+            "type": "artist",
+            "uri": "spotify:artist:6l3HvQ5sa6mXTsMTB19rO5"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "RO",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 219173,
+        "explicit": true,
+        "external_ids": {
+          "isrc": "USQX91402599"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/30Chv2SmIry70YwtmtaKnj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/30Chv2SmIry70YwtmtaKnj",
+        "id": "30Chv2SmIry70YwtmtaKnj",
+        "is_local": false,
+        "name": "Hello",
+        "popularity": 59,
+        "preview_url": "https://p.scdn.co/mp3-preview/4b3df43120daf5eea2b2a21502fe2b359ec17d4f?cid=df20dea9b13e490d88e36a2fa9b5ccd6",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:30Chv2SmIry70YwtmtaKnj"
+      }
+    ],
+    "limit": 5,
+    "next": "https://api.spotify.com/v1/search?query=hello&type=track&offset=5&limit=5",
+    "offset": 0,
+    "previous": null,
+    "total": 51618
+  }
+}

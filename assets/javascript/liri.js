@@ -1,6 +1,6 @@
 // get command line arguments, remove the path info, and format for APIs
 var searchType = process.argv[2];
-var argumentString = process.argv.slice(3).join(" ");
+var argumentString = process.argv.slice(3).join("+");
 
 // adding logging
 const fs = require("fs");
@@ -11,6 +11,7 @@ var now = moment().format("MMMM Do YYYY, h:mm:ss a");
 var music = require("./music");
 var movies = require("./movies");
 var bands = require("./bands");
+const keys = require("./keys");
 
 // var inquirer = require('inquirer'); // may use later for a CLI
 
@@ -28,7 +29,7 @@ fs.appendFile(
 if (searchType === "spotify-this-song") {
   console.log(music.GetTrack(argumentString));
 } else if (searchType === "concert-this") {
-  console.log(concerts.GetBands(argumentString));
+  console.log(bands.GetBands(argumentString));
 } else if (searchType === "movie-this") {
   console.log(movies.GetFlick(argumentString));
 }
